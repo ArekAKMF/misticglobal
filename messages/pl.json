@@ -1,0 +1,16 @@
+{
+  "Index": {
+    "pageName": "Tarot Mistyczny",
+    "pageLanguage": "Wybierz język",
+    "cardTypeGame": "Rozkład kart tarota",
+    "cardTypeSing": "Karta dnia dla znaków zodiaku",
+    "cardSingTitleLine1": "Karta dnia tarot",
+    "cardSingTitleLine2": " dla znaku zodiaku ",
+    "cardSingTitleLine3": " na dzień  ",
+    "cardSingLove": "Miłość",
+    "cardSingHealt": "Zdrowie",
+    "cardSingWork": "Praca",
+    "cardgamesDescription": "Przed przystąpieniem do rozkładania kart należy się wyciszyć można zapalić świeczkę i zastanowić nad zadanym pytaniem.",
+    "cardgamesActionButton": "Rozłóż karty"
+  }
+}

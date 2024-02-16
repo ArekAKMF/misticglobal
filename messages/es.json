@@ -1,0 +1,17 @@
+{
+    "Index": {
+        "pageName": "Tarot Místico",
+        "pageLanguage": "Selecciona el idioma",
+        "cardTypeGame": "Lectura de cartas de Tarot",
+        "cardTypeSing": "Carta del día para los signos del zodiaco",
+        "cardSingTitleLine1": "Carta del día de Tarot",
+        "cardSingTitleLine2": "para el signo del zodiaco",
+        "cardSingTitleLine3": " al día ",
+        "cardSingLove": "Amor",
+        "cardSingHealt": "Salud",
+        "cardSingWork": "Trabajo",
+        "cardgamesDescription": "Antes de comenzar a extender las cartas, se recomienda calmarse, quizás encender una vela y reflexionar sobre la pregunta planteada.",
+        "cardgamesActionButton": "Extender las cartas"
+    }
+  }
+  

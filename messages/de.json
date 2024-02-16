@@ -1,0 +1,16 @@
+{
+  "Index": {
+    "pageName": "Mystischer Tarot",
+    "pageLanguage": "Sprache wählen",
+    "cardTypeGame": "Tarot Kartenlegung",
+    "cardTypeSing": "Tageskarte für Sternzeichen",
+    "cardSingTitleLine1": "Tarot Tageskarte",
+    "cardSingTitleLine2": "für das Sternzeichen",
+    "cardSingTitleLine3": " täglich ",
+    "cardSingLove": "Liebe",
+    "cardSingHealt": "Gesundheit",
+    "cardSingWork": "Arbeit",
+    "cardgamesDescription": "Bevor Sie mit dem Kartenlegen beginnen, ist es ratsam, sich zu beruhigen, vielleicht eine Kerze anzuzünden und über die gestellte Frage nachzudenken.",
+    "cardgamesActionButton": "Karten legen"
+  }
+}

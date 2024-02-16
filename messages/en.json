@@ -1,0 +1,16 @@
+{
+  "Index": {
+    "pageName": "Mystical Tarot",
+    "pageLanguage": "Choose Language",
+    "cardTypeGame": "Tarot Card Spread",
+    "cardTypeSing": "Card of the Day for Zodiac Signs",
+    "cardSingTitleLine1": "Tarot Card of the Day",
+    "cardSingTitleLine2": "for the Zodiac Sign",
+    "cardSingTitleLine3": " per day",
+    "cardSingLove": "Love",
+    "cardSingHealt": "Health",
+    "cardSingWork": "Work",
+    "cardgamesDescription": "Before starting to lay out the cards, it is advisable to calm down, perhaps light a candle, and contemplate the question at hand.",
+    "cardgamesActionButton": "Spread the Cards"
+  }
+}

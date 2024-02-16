@@ -1,0 +1,16 @@
+{
+    "Index": {
+        "pageName": "Tarot Mystique",
+        "pageLanguage": "Choisissez la langue",
+        "cardTypeGame": "Étendue de cartes de tarot",
+        "cardTypeSing": "Carte du jour pour les signes du zodiaque",
+        "cardSingTitleLine1": "Carte du jour de Tarot",
+        "cardSingTitleLine2": "pour le signe du zodiaque",
+        "cardSingTitleLine3": " par jour ",
+        "cardSingLove": "Amour",
+        "cardSingHealt": "Santé",
+        "cardSingWork": "Travail",
+        "cardgamesDescription": "Avant de commencer à étaler les cartes, il est conseillé de se calmer, peut-être allumer une bougie et réfléchir à la question posée.",
+        "cardgamesActionButton": "Étaler les cartes"
+    }
+  }
